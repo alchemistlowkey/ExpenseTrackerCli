@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "date": "2026-05-26",
+    "description": "Groceries",
+    "amount": 40,
+    "category": "Food",
+    "createdAt": "2026-02-26T22:05:17.1074981+01:00",
+    "updatedAt": "2026-02-26T22:05:17.1075001+01:00"
+  },
+  {
+    "id": 2,
+    "date": "2026-05-26",
+    "description": "BRT Ticket",
+    "amount": 1.20,
+    "category": "Transport",
+    "createdAt": "2026-02-26T22:05:57.8730866+01:00",
+    "updatedAt": "2026-02-27T15:44:24.5753472+01:00"
+  },
+  {
+    "id": 3,
+    "date": "2026-07-26",
+    "description": "Groceries",
+    "amount": 45.50,
+    "category": "Food",
+    "createdAt": "2026-02-26T22:07:02.8417364+01:00",
+    "updatedAt": "2026-02-26T22:07:02.8417367+01:00"
+  },
+  {
+    "id": 4,
+    "date": "2026-12-26",
+    "description": "Groceries",
+    "amount": 65.20,
+    "category": "Food",
+    "createdAt": "2026-02-26T22:12:50.0506222+01:00",
+    "updatedAt": "2026-02-26T22:12:50.0506224+01:00"
+  },
+  {
+    "id": 5,
+    "date": "2026-05-26",
+    "description": "Movie Tickets",
+    "amount": 5.20,
+    "category": "Entertainment",
+    "createdAt": "2026-02-26T22:17:15.5077308+01:00",
+    "updatedAt": "2026-02-26T22:17:15.5077313+01:00"
+  },
+  {
+    "id": 6,
+    "date": "2026-03-27",
+    "description": "EkEDC payment",
+    "amount": 500.20,
+    "category": "bills",
+    "createdAt": "2026-02-27T16:25:00.531327+01:00",
+    "updatedAt": "2026-02-27T16:25:00.5313276+01:00"
+  },
+  {
+    "id": 7,
+    "date": "2026-02-28",
+    "description": "EkEDC payment",
+    "amount": 1500.20,
+    "category": "bills",
+    "createdAt": "2026-02-28T20:07:37.6032192+01:00",
+    "updatedAt": "2026-02-28T20:07:37.6032194+01:00"
+  },
+  {
+    "id": 8,
+    "date": "2026-02-28",
+    "description": "Airtime",
+    "amount": 100.20,
+    "category": "bills",
+    "createdAt": "2026-02-28T20:16:15.0149835+01:00",
+    "updatedAt": "2026-02-28T20:16:15.0149837+01:00"
+  }
+]

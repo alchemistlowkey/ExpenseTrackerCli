@@ -1,0 +1,14 @@
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Debug/net10.0/ExpenseTrackerCli
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Debug/net10.0/ExpenseTrackerCli.deps.json
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Debug/net10.0/ExpenseTrackerCli.runtimeconfig.json
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Debug/net10.0/ExpenseTrackerCli.dll
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Debug/net10.0/ExpenseTrackerCli.pdb
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/ExpenseTrackerCli.GeneratedMSBuildEditorConfig.editorconfig
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/ExpenseTrackerCli.AssemblyInfoInputs.cache
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/ExpenseTrackerCli.AssemblyInfo.cs
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/ExpenseTrackerCli.csproj.CoreCompileInputs.cache
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/ExpenseTrackerCli.dll
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/refint/ExpenseTrackerCli.dll
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/ExpenseTrackerCli.pdb
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/ExpenseTrackerCli.genruntimeconfig.cache
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Debug/net10.0/ref/ExpenseTrackerCli.dll

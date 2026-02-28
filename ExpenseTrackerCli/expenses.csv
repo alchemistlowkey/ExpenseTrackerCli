@@ -1,0 +1,9 @@
+Id, Description, Amount, Category, Date
+1, "Groceries", 40, "Food", 2026-05-26
+2, "BRT Ticket", 1.20, "Transport", 2026-05-26
+3, "Groceries", 45.50, "Food", 2026-07-26
+4, "Groceries", 65.20, "Food", 2026-12-26
+5, "Movie Tickets", 5.20, "Entertainment", 2026-05-26
+6, "EkEDC payment", 500.20, "bills", 2026-03-27
+7, "EkEDC payment", 1500.20, "bills", 2026-02-28
+8, "Airtime", 100.20, "bills", 2026-02-28
