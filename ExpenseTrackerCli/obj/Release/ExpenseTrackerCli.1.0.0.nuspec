@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ExpenseTrackerCli</id>
+    <version>1.0.0</version>
+    <authors>ExpenseTrackerCli</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" commit="6a2a186bd6e355624e4e279214a2e4cec42c6e55" />
+  </metadata>
+  <files>
+    <file src="/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/obj/Release/net10.0/DotnetToolSettings.xml" target="tools/net10.0/any/DotnetToolSettings.xml" />
+    <file src="/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli.deps.json" target="tools/net10.0/any/ExpenseTrackerCli.deps.json" />
+    <file src="/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli.dll" target="tools/net10.0/any/ExpenseTrackerCli.dll" />
+    <file src="/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli.pdb" target="tools/net10.0/any/ExpenseTrackerCli.pdb" />
+    <file src="/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli.runtimeconfig.json" target="tools/net10.0/any/ExpenseTrackerCli.runtimeconfig.json" />
+  </files>
+</package>

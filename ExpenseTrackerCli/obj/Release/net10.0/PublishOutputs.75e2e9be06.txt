@@ -1,0 +1,5 @@
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli.dll
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli.deps.json
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli.runtimeconfig.json
+/home/alchemistlowkey/Desktop/csharp/ExpenseTrackerCli/ExpenseTrackerCli/bin/Release/net10.0/publish/ExpenseTrackerCli.pdb
